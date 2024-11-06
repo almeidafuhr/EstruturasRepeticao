@@ -1,0 +1,7 @@
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\E37083\Desktop\Atividades_EstruturasRepeticao\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
